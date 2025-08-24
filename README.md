@@ -43,6 +43,6 @@ O log foi a minha principal ferramenta de investigação. O erro `IndexOutOfBoun
 
 ### **Autor**
 
-**[Seu Nome]**
--   **LinkedIn:** [Insira o link do seu perfil do LinkedIn]
--   **GitHub:** [Insira o link do seu perfil do GitHub]
+**[Herbert Emidio]**
+-   **LinkedIn:** [https://www.linkedin.com/in/herbertemidio/]
+-   **GitHub:** [git@github.com:HERBERT-EMIDIO/dslist.git]
